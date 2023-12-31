@@ -1,0 +1,21 @@
+.forms {
+    padding: 20px;
+  }
+  
+  mat-form-field {
+    width: 100%;
+  }
+  
+  mat-label {
+    margin-bottom: 5px;
+  }
+  
+  mat-select {
+    width: 100%;
+  }
+  
+  mat-hint {
+    font-size: 12px;
+    color: gray;
+  }
+  
